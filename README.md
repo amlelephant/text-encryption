@@ -1,4 +1,4 @@
-#Text encryption/decryption 
+# Text encryption/decryption 
 
 This repo contains a simple text encryption algorithm that can be used for things that don't need to be incredibly secure but still don't want to be
 
@@ -6,19 +6,20 @@ readable to the average person. This algorithm changes the letters in the string
 
 easily cracked as a cesar cypher.
 
-#Navigation
+## Navigation
 
 There are different branches that different versions of the code are located it. 
 
 You can find the version that works best for you or use the newest version.
 
-#Usage
+## Usage
 
 Either download the files or copy and paste the code
 
 into your text editor and adapt it into your program.
 
-#Contributing
+## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
