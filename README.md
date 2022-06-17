@@ -8,7 +8,7 @@ easily cracked as a cesar cypher.
 
 ## Navigation
 
-There are different branches that different versions of the code are located it. 
+There are different folders listed as the versions of the algorithm.
 
 You can find the version that works best for you or use the newest version.
 
