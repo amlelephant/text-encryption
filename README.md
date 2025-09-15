@@ -6,7 +6,8 @@ readable to the average person. This algorithm changes the letters in the string
 
 easily cracked as a cesar cypher. (Previous text is for v1-2) V3 uses an xor encryption algorithim for secure encryption/decrption. I implemented a system inside of it to 
 check if the pad is the correct one and then procede to encrypt/decrypt the text. (Note that XOR algorithim is not fully built out so pick bits and pieces for what is necessary
-for your project)
+for your project). V4.0 contains an AES encrption algorithim that was not completely made from scratch. It implemetns a python module. If used the salt must be changed to a personal
+secret key similar to the one included. This is a really quick and short process that can be quickly implimented. 
 
 ## Navigation
 
